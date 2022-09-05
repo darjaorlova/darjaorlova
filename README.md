@@ -28,6 +28,17 @@
 | **[Bunny Search API with Dart (shelf)](https://github.com/darjaorlova/bunny_search_api)** | 💻 |
 | **[Bunny Search API with Dart (dart_frog)](https://github.com/darjaorlova/bunny_search_api_frog_experimental)** | 💻 |
 
+### Some of the client apps I have worked on 
+
+| Title | Type |
+| ------------- | :-------------: |
+| [CrochetApp](https://chililabs.io/portfolio/crochet-app) | 💙 |
+| [Bilderlings](https://chililabs.io/portfolio/bilderlings) | 💙 |
+| TopUp Apps | 💙 |
+| [Lucid Dreams](https://play.google.com/store/apps/details?id=fm.lucid.android) | 🤖 |
+| [SoraStream](https://chililabs.io/portfolio/sora-stream) |🤖|
+| [Piano Companion](https://play.google.com/store/apps/details?id=com.binitex.pianochords) | 🤖 |
+
 <!--
 **darjaorlova/darjaorlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
