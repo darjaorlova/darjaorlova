@@ -15,6 +15,7 @@
 
 | Title | Type |
 | ------------- | :-------------: |
+| [**Flutter mobile app code audit**](https://chililabs.io/blog/flutter-mobile-app-code-audit) | 📝 |
 | [**Data structures with Dart: Set**](https://medium.com/@daria.orlova/data-structures-with-dart-set-a034bc7b7d4a) | 📝 |
 | [**Custom shaped AppBar as seen in the “Bunny Search” app**](https://medium.com/flutter-community/custom-shaped-appbar-as-seen-in-the-bunny-search-app-6312d067485c) | 📝 |
 | [**Flutter pet project roadmap**](https://medium.com/@daria.orlova/flutter-pet-project-roadmap-31247c8eb015) | 📝 |
