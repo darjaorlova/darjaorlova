@@ -27,9 +27,11 @@
 | **[Power of Flutter + Firebase at Flutter Global Summit '21](https://youtu.be/kg60JQJ-tBE?t=33406)** | 🎤 |
 | **[How to cook Flutter with Chili at Flutter Festival Lithuania](https://www.youtube.com/watch?v=fZIzKDsc-So)** | 🎤 |
 | **[Animal-friendly projects with Flutter at Flutter Global Summit '22](https://youtu.be/0yq_zlRelWY)** | 🎤 |
+| **[Plug and Play Developer - Flying High with Flutter #91](https://youtu.be/SgvRqlFh3Vo)** | 🎤 |
 | **[Bunny Search Flutter app source code](https://github.com/darjaorlova/bunny-search-source-code)** | 💻 |
 | **[Bunny Search API with Dart (shelf)](https://github.com/darjaorlova/bunny_search_api)** | 💻 |
 | **[Bunny Search API with Dart (dart_frog)](https://github.com/darjaorlova/bunny_search_api_frog_experimental)** | 💻 |
+
 
 ### Some of the client apps I have worked on 
 
