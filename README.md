@@ -39,7 +39,7 @@
 | ------------- | :-------------: |
 | [CrochetApp](https://chililabs.io/portfolio/crochet-app) | 💙 |
 | [Bilderlings](https://chililabs.io/portfolio/bilderlings) | 💙 |
-| TopUp Apps | 💙 |
+| [TopUp Apps](https://chililabs.io/portfolio/top-up1) | 💙 |
 | [Lucid Dreams](https://play.google.com/store/apps/details?id=fm.lucid.android) | 🤖 |
 | [SoraStream](https://chililabs.io/portfolio/sora-stream) |🤖|
 | [Piano Companion](https://play.google.com/store/apps/details?id=com.binitex.pianochords) | 🤖 |
