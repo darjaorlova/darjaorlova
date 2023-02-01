@@ -16,6 +16,7 @@
 
 | Title | Type |
 | ------------- | :-------------: |
+| [**A pragmatic guide to BuildContext in Flutter**](https://blog.codemagic.io/a-pragmatic-guide-to-buildcontext-in-flutter) | 📝 |
 | [**Segmented State Pattern with DelayedResult**](https://chililabs.io/blog/segmented-state-pattern-with-delayed-result) | 📝 |
 | [**Flutter mobile app code audit**](https://chililabs.io/blog/flutter-mobile-app-code-audit) | 📝 |
 | [**Data structures with Dart: Set**](https://medium.com/@daria.orlova/data-structures-with-dart-set-a034bc7b7d4a) | 📝 |
