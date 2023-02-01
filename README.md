@@ -6,6 +6,7 @@
 * And looking forward to learn more about backend development 🌐
 * I love sharing my experience and knowledge via [articles](https://medium.com/@daria.orlova) 📝
 * Occasionally I speak at events 🎤
+* And also organize events, such as Mobile Developers Latvia meetups 📱🇱🇻
 * I'm a mentor at [Riga Tech Girls](http://www.rigatechgirls.com/mentorship2022) 👩‍💻
 * I'm a [Women Techmakers Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f9e9/darja_orlova) 💚
 * [Bunny Search](https://github.com/darjaorlova/bunny-search-source-code) is a project that I co-founded and developed 🐰🔍
@@ -27,6 +28,7 @@
 | **[Series] [Daria’s Flutter diaries](https://medium.com/@daria.orlova/darias-flutter-diaries-1-990ba611cf9e)** | 📝 |
 | **[Power of Flutter + Firebase at Flutter Global Summit '21](https://youtu.be/kg60JQJ-tBE?t=33406)** | 🎤 |
 | **[How to cook Flutter with Chili at Flutter Festival Lithuania](https://www.youtube.com/watch?v=fZIzKDsc-So)** | 🎤 |
+| **[How to cook Flutter with Chili at Mobile Developers Latvia](https://www.youtube.com/watch?v=o6NbkdTSRpM)** | 🎤 |
 | **[Animal-friendly projects with Flutter at Flutter Global Summit '22](https://youtu.be/0yq_zlRelWY)** | 🎤 |
 | **[Plug and Play Developer - Flying High with Flutter #91](https://youtu.be/SgvRqlFh3Vo)** | 🎤 |
 | **[Bunny Search Flutter app source code](https://github.com/darjaorlova/bunny-search-source-code)** | 💻 |
