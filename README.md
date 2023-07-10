@@ -33,6 +33,7 @@
 | **[Plug and Play Developer - Flying High with Flutter #91](https://youtu.be/SgvRqlFh3Vo)** | 🎤 |
 | **[The secret Element of Flutter BuildContext at Flutter Global Summit '23](https://www.youtube.com/live/BafFTK-YClo?feature=share&t=27558)** | 🎤 |
 | **[The secret Element of Flutter BuildContext at Cross feat. Flutter meetup in Krakow '23](https://www.youtube.com/watch?v=J1_NW5-ULy0)** | 🎤 |
+| **[Healthy Code: A guide to Flutter app code audit, FlutterCon '23](https://github.com/darjaorlova/fluttercon23-code-audit-resources)** | 🎤 |
 | **[Bunny Search Flutter app source code](https://github.com/darjaorlova/bunny-search-source-code)** | 💻 |
 | **[Bunny Search API with Dart (shelf)](https://github.com/darjaorlova/bunny_search_api)** | 💻 |
 | **[Bunny Search API with Dart (dart_frog)](https://github.com/darjaorlova/bunny_search_api_frog_experimental)** | 💻 |
@@ -47,6 +48,8 @@
 | [TopUp Apps](https://chililabs.io/portfolio/top-up1) | 💙 |
 | [Lucid Dreams](https://play.google.com/store/apps/details?id=fm.lucid.android) | 🤖 |
 | [SoraStream](https://chililabs.io/portfolio/sora-stream) |🤖|
+| [Bookla](https://chililabs.io/portfolio/bookla) |🤖|
+| [Searchie](https://chililabs.io/portfolio/searchie) |🤖|
 | [Piano Companion](https://play.google.com/store/apps/details?id=com.binitex.pianochords) | 🤖 |
 
 <!--
