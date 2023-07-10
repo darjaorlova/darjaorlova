@@ -8,6 +8,7 @@
 * Occasionally I speak at events 🎤
 * And also organize events, such as Mobile Developers Latvia meetups 📱🇱🇻
 * I'm a mentor at [Riga Tech Girls](http://www.rigatechgirls.com/mentorship2022) 👩‍💻
+* I'm a [Flutterista[(https://flutteristas.org/) 💜
 * I'm a [Women Techmakers Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f9e9/darja_orlova) 💚
 * [Bunny Search](https://github.com/darjaorlova/bunny-search-source-code) is a project that I co-founded and developed 🐰🔍
 * I'm from Latvia, I speak Russian, English & Latvian 🇱🇻 Currently learning Spanish 🇪🇸
