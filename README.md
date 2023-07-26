@@ -6,13 +6,14 @@
 * And looking forward to learn more about backend development 🌐
 * I love sharing my experience and knowledge via [articles](https://medium.com/@daria.orlova) 📝
 * Occasionally I speak at events 🎤
-* And also organize events, such as Mobile Developers Latvia meetups 📱🇱🇻
+* And also organize events, such as Mobile Developers Latvia meetups and [Flutter Riga](https://twitter.com/flutter_riga) 💙📱🇱🇻
 * I'm a mentor at [Riga Tech Girls](http://www.rigatechgirls.com/mentorship2022) 👩‍💻
 * I'm a [Flutterista](https://flutteristas.org/) 💜
 * I'm a [Women Techmakers Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f9e9/darja_orlova) 💚
 * [Bunny Search](https://github.com/darjaorlova/bunny-search-source-code) is a project that I co-founded and developed 🐰🔍
 * I'm from Latvia, I speak Russian, English & Latvian 🇱🇻 Currently learning Spanish 🇪🇸
 * Talk to me on Twitter [@dariadroid](https://twitter.com/dariadroid) 🐦
+* And subscribe to my ["Daria's Flutter Diaries" newsletter](https://dariadroid.substack.com/) ✍🏼
 
 ### My work
 
@@ -34,7 +35,7 @@
 | **[Plug and Play Developer - Flying High with Flutter #91](https://youtu.be/SgvRqlFh3Vo)** | 🎤 |
 | **[The secret Element of Flutter BuildContext at Flutter Global Summit '23](https://www.youtube.com/live/BafFTK-YClo?feature=share&t=27558)** | 🎤 |
 | **[The secret Element of Flutter BuildContext at Cross feat. Flutter meetup in Krakow '23](https://www.youtube.com/watch?v=J1_NW5-ULy0)** | 🎤 |
-| **[Healthy Code: A guide to Flutter app code audit, FlutterCon '23](https://github.com/darjaorlova/fluttercon23-code-audit-resources)** | 🎤 |
+| **[Healthy Code: A guide to Flutter app code audit at FlutterCon '23 in Berlin](https://github.com/darjaorlova/fluttercon23-code-audit-resources)** | 🎤 |
 | **[Bunny Search Flutter app source code](https://github.com/darjaorlova/bunny-search-source-code)** | 💻 |
 | **[Bunny Search API with Dart (shelf)](https://github.com/darjaorlova/bunny_search_api)** | 💻 |
 | **[Bunny Search API with Dart (dart_frog)](https://github.com/darjaorlova/bunny_search_api_frog_experimental)** | 💻 |
