@@ -1,6 +1,6 @@
 ### Hey! I'm Daria :) 
 
-* I'm a mobile tech lead at [@ChiliLabs](https://chililabs.io/) 🌶️👩🏽‍💻 
+* Flutter & Dart GDE 💙
 * My main focus is developing mobile apps for clients using Flutter 💙 
 * I also have experience with native android 🤖 
 * And looking forward to learn more about backend development 🌐
