@@ -19,6 +19,7 @@
 
 | Title | Type |
 | ------------- | :-------------: |
+| [**Implementing "fuzzy search" in a Flutter app**](https://dariadroid.substack.com/p/implementing-fuzzy-search-in-a-flutter) | 📝 |
 | [**A pragmatic guide to BuildContext in Flutter**](https://blog.codemagic.io/a-pragmatic-guide-to-buildcontext-in-flutter) | 📝 |
 | [**Segmented State Pattern with DelayedResult**](https://chililabs.io/blog/segmented-state-pattern-with-delayed-result) | 📝 |
 | [**Flutter mobile app code audit**](https://chililabs.io/blog/flutter-mobile-app-code-audit) | 📝 |
