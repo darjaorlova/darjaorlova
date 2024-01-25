@@ -50,7 +50,7 @@
 | ------------- | :-------------: |
 | [CrochetApp](https://chililabs.io/portfolio/crochet-app) | 💙 |
 | [Bilderlings](https://chililabs.io/portfolio/bilderlings) | 💙 |
-| [TopUp Apps](https://chililabs.io/portfolio/top-up1) | 💙 |
+| [TopUp Apps](https://chililabs.io/portfolio/top_up) | 💙 |
 | [Lucid Dreams](https://play.google.com/store/apps/details?id=fm.lucid.android) | 🤖 |
 | [SoraStream](https://chililabs.io/portfolio/sora-stream) |🤖|
 | [Bookla](https://chililabs.io/portfolio/bookla) |🤖|
