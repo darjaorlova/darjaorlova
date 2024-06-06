@@ -39,6 +39,7 @@
 | **[Healthy Code: A guide to Flutter app code audit at FlutterCon '23 in Berlin](https://github.com/darjaorlova/fluttercon23-code-audit-resources)** | 🎤 |
 | **[A safe bridge to the native side at Flutter&Friends '23 in Stockholm](https://github.com/darjaorlova/purr_generator)** | 🎤 |
 | **[Making smarter decisions faster with Firebase Remote Config at F3 Festival '23 in Prague](https://github.com/mkobuolys/f3-firebase-remote-config-talk)** | 🎤 with [Mangirdas Kazlauskas](https://github.com/mkobuolys) |
+| **[Backend-as-a-Service - a lifesaver for an indie dev at Full Stack Flutter '24 Online Conference](https://www.youtube.com/live/2TYVKrxHYKs?si=SRTjPMN6mMz0CA87&t=2715)** | 🎤 |
 | **[Bunny Search Flutter app source code](https://github.com/darjaorlova/bunny-search-source-code)** | 💻 |
 | **[Bunny Search API with Dart (shelf)](https://github.com/darjaorlova/bunny_search_api)** | 💻 |
 | **[Bunny Search API with Dart (dart_frog)](https://github.com/darjaorlova/bunny_search_api_frog_experimental)** | 💻 |
