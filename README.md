@@ -1,7 +1,9 @@
 ### Hey! I'm Daria :) 
 
 * Flutter & Dart GDE 💙
-* My main focus is developing mobile apps for clients using Flutter 💙 
+* My main focus is developing mobile apps using Flutter 💙
+* Co-founder of [BBapps - apps that care for you and the planet 🌍🫶🏽](https://bbapps.dev/)
+* Author of [Flutter Design Patterns and Best Practices 📚](https://www.packtpub.com/en-gb/product/flutter-design-patterns-and-best-practices-9781801072649?utm_medium=affiliate&utm_campaign=79735d10-a6b3-c1ae-8ed9-63e28e45bef9&utm_term=2642207d-c075-ade8-2579-6321ad03ab0d&utm_content=B17121) 
 * I also have experience with native android 🤖 
 * And looking forward to learn more about backend development 🌐
 * I love sharing my experience and knowledge via [articles](https://medium.com/@daria.orlova) 📝
@@ -10,7 +12,6 @@
 * I'm a mentor at [Riga Tech Girls](http://www.rigatechgirls.com/mentorship2022) 👩‍💻
 * I'm a [Flutterista](https://flutteristas.org/) 💜
 * I'm a [Women Techmakers Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f9e9/darja_orlova) 💚
-* [Bunny Search](https://github.com/darjaorlova/bunny-search-source-code) is a project that I co-founded and developed 🐰🔍
 * I'm from Latvia, I speak Russian, English & Latvian 🇱🇻 Currently learning Spanish 🇪🇸
 * Talk to me on Twitter [@dariadroid](https://twitter.com/dariadroid) 🐦
 * And subscribe to my ["Daria's Flutter Diaries" newsletter](https://dariadroid.substack.com/) ✍🏼
@@ -29,21 +30,30 @@
 | **[10 tips for better pull requests and code review](https://blog.codemagic.io/10-tips-for-better-pull-requests-and-code-review/)** | 📝 |
 | [**Flutter + Firebase: How we built CrochetApp**](https://medium.com/chili-labs/flutter-firebase-how-we-built-crochetapp-7aac69f14c17) | 📝 |
 | **[Series] [Daria’s Flutter diaries](https://medium.com/@daria.orlova/darias-flutter-diaries-1-990ba611cf9e)** | 📝 |
+| **[Zero runtime errors: Exploring Static Code Analysis techniques in Flutter '24](https://github.com/darjaorlova/magic_beasts_app)** | 🎤 |
+| **[Backend-as-a-Service - a lifesaver for an indie dev at Full Stack Flutter '24 Online Conference](https://www.youtube.com/live/2TYVKrxHYKs?si=SRTjPMN6mMz0CA87&t=2715)** | 🎤 |
+| **[Making smarter decisions faster with Firebase Remote Config at F3 Festival '23 in Prague](https://github.com/mkobuolys/f3-firebase-remote-config-talk)** | 🎤 with [Mangirdas Kazlauskas](https://github.com/mkobuolys) |
+| **[A safe bridge to the native side at Flutter&Friends '23 in Stockholm](https://github.com/darjaorlova/purr_generator)** | 🎤 |
+| **[Healthy Code: A guide to Flutter app code audit at FlutterCon '23 in Berlin](https://github.com/darjaorlova/fluttercon23-code-audit-resources)** | 🎤 |
+| **[The secret Element of Flutter BuildContext at Cross feat. Flutter meetup in Krakow '23](https://www.youtube.com/watch?v=J1_NW5-ULy0)** | 🎤 |
+| **[The secret Element of Flutter BuildContext at Flutter Global Summit '23](https://www.youtube.com/live/BafFTK-YClo?feature=share&t=27558)** | 🎤 |
+| **[Animal-friendly projects with Flutter at Flutter Global Summit '22](https://youtu.be/0yq_zlRelWY)** | 🎤 |
 | **[Power of Flutter + Firebase at Flutter Global Summit '21](https://youtu.be/kg60JQJ-tBE?t=33406)** | 🎤 |
 | **[How to cook Flutter with Chili at Flutter Festival Lithuania](https://www.youtube.com/watch?v=fZIzKDsc-So)** | 🎤 |
 | **[How to cook Flutter with Chili at Mobile Developers Latvia](https://www.youtube.com/watch?v=o6NbkdTSRpM)** | 🎤 |
-| **[Animal-friendly projects with Flutter at Flutter Global Summit '22](https://youtu.be/0yq_zlRelWY)** | 🎤 |
 | **[Plug and Play Developer - Flying High with Flutter #91](https://youtu.be/SgvRqlFh3Vo)** | 🎤 |
-| **[The secret Element of Flutter BuildContext at Flutter Global Summit '23](https://www.youtube.com/live/BafFTK-YClo?feature=share&t=27558)** | 🎤 |
-| **[The secret Element of Flutter BuildContext at Cross feat. Flutter meetup in Krakow '23](https://www.youtube.com/watch?v=J1_NW5-ULy0)** | 🎤 |
-| **[Healthy Code: A guide to Flutter app code audit at FlutterCon '23 in Berlin](https://github.com/darjaorlova/fluttercon23-code-audit-resources)** | 🎤 |
-| **[A safe bridge to the native side at Flutter&Friends '23 in Stockholm](https://github.com/darjaorlova/purr_generator)** | 🎤 |
-| **[Making smarter decisions faster with Firebase Remote Config at F3 Festival '23 in Prague](https://github.com/mkobuolys/f3-firebase-remote-config-talk)** | 🎤 with [Mangirdas Kazlauskas](https://github.com/mkobuolys) |
-| **[Backend-as-a-Service - a lifesaver for an indie dev at Full Stack Flutter '24 Online Conference](https://www.youtube.com/live/2TYVKrxHYKs?si=SRTjPMN6mMz0CA87&t=2715)** | 🎤 |
 | **[Bunny Search Flutter app source code](https://github.com/darjaorlova/bunny-search-source-code)** | 💻 |
 | **[Bunny Search API with Dart (shelf)](https://github.com/darjaorlova/bunny_search_api)** | 💻 |
 | **[Bunny Search API with Dart (dart_frog)](https://github.com/darjaorlova/bunny_search_api_frog_experimental)** | 💻 |
 
+### BBapps 🌍🫶🏽
+
+| Title | Type |
+| ------------- | :-------------: |
+| [Trigger Journal](https://triggerjournal.app/) | 💙 |
+| [NativePal](https://nativepal.app/) | 💙 |
+| [Bunny Search](https://github.com/darjaorlova/bunny-search-source-code) | 💙 |
+| [TrackIt](https://apps.apple.com/us/app/trackit-simple-habit-tracker/id6480927369) | 💙 |
 
 ### Some of the client apps I have worked on 
 
