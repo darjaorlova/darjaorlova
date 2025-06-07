@@ -20,6 +20,9 @@
 
 | Title | Type |
 | ------------- | :-------------: |
+| [**Flutter Design Patterns and Best Practices**](https://www.packtpub.com/en-gb/product/flutter-design-patterns-and-best-practices-9781801072649?utm_medium=affiliate&utm_campaign=79735d10-a6b3-c1ae-8ed9-63e28e45bef9&utm_term=2642207d-c075-ade8-2579-6321ad03ab0d&utm_content=B17121) | 📚 |
+| [**How to localize the app into 55 languages and not go crazy?**](https://substack.com/@dariadroid/p-154943911) | 📝 |
+| [**Hodgepodge #1: Optimization tips**](https://substack.com/@dariadroid/p-153928430) | 📝 |
 | [**Implementing "fuzzy search" in a Flutter app**](https://dariadroid.substack.com/p/implementing-fuzzy-search-in-a-flutter) | 📝 |
 | [**A pragmatic guide to BuildContext in Flutter**](https://blog.codemagic.io/a-pragmatic-guide-to-buildcontext-in-flutter) | 📝 |
 | [**Segmented State Pattern with DelayedResult**](https://chililabs.io/blog/segmented-state-pattern-with-delayed-result) | 📝 |
