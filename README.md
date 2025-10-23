@@ -33,6 +33,7 @@
 | **[10 tips for better pull requests and code review](https://blog.codemagic.io/10-tips-for-better-pull-requests-and-code-review/)** | 📝 |
 | [**Flutter + Firebase: How we built CrochetApp**](https://medium.com/chili-labs/flutter-firebase-how-we-built-crochetapp-7aac69f14c17) | 📝 |
 | **[Series] [Daria’s Flutter diaries](https://medium.com/@daria.orlova/darias-flutter-diaries-1-990ba611cf9e)** | 📝 |
+| **[To SQL or NoSQL? Firebase is the Answer at Fluttercon EU '25](https://www.youtube.com/watch?v=ypmdDJO8ZHY)** | 🎤 |
 | **[Indie Dev Adventures: Lessons Learned from Going Solo with Flutter at mDevCamp in Prague '25](https://slideslive.com/39043380/indie-dev-adventures-lessons-learned-from-going-solo-with-flutter)** | 🎤 |
 | **[Indie Dev Adventures: Lessons Learned from Going Solo with Flutter at Flutteristas Conf '25](https://www.youtube.com/live/ftTXXAx8AxM?t=35667s)** | 🎤 |
 | **[Indie Dev Adventures: Lessons Learned from Going Solo with Flutter at Flutter Valencia '25](https://www.youtube.com/watch?v=f3csNRtXUXQ&ab_channel=FlutterValencia)** | 🎤 |
